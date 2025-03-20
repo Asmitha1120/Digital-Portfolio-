@@ -137,7 +137,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2
- <a href= "https://drive.google.com/file/d/1XAHxrrZL-EsHU7NpX9Xqp-7NhiyHqkh/view?uspdrivesdk" 
+<a href= "https://drive.google.com/file/d/1XAHxrrZLD-EsHU7NpX9Xqp-7NhiyHqkh/view?usp=drivesdk" 
  target="_blank" class="download-button">Download CV</a>
     <footer>
         <p>&copy; 2025 Asmitha.S</p>
