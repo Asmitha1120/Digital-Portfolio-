@@ -136,7 +136,7 @@
     <section id="resume">
         <div class="section-content">
             <center>
-            <h2>Resume</h2
+            <h2>Resume</h2>
 <a href= "https://drive.google.com/file/d/1XAHxrrZLD-EsHU7NpX9Xqp-7NhiyHqkh/view?usp=drivesdk" 
  target="_blank" class="download-button">Download CV</a>
     <footer>
